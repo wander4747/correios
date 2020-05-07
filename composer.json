@@ -1,4 +1,15 @@
 {
+	"name": "wander4747/correios-crawler",
+	"description": "This class display the tracking, zip code and send tracking sms from the post office",
+	"authors": [
+		{
+			"name": "Wander",
+			"email": "wander.douglas14@gmail.com"
+		}
+	],
+	"keywords": ["correios"],
+	"license": "MIT",
+	"type": "library",
     "require": {
         "fabpot/goutte": "^4.0",
         "nesbot/carbon": "^2.33"
