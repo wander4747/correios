@@ -1,0 +1,11 @@
+{
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "nesbot/carbon": "^2.33"
+    },
+	"autoload": {
+		"psr-4": {
+			"Correios\\": "src/"
+		}
+	}
+}
