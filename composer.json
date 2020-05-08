@@ -10,6 +10,7 @@
 	"keywords": ["correios"],
 	"license": "MIT",
 	"type": "library",
+	"minimum-stability": "dev",
     "require": {
         "fabpot/goutte": "^4.0",
         "nesbot/carbon": "^2.33"
