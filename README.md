@@ -3,6 +3,11 @@
 
 This class display the tracking, zip code and send tracking sms from the post office
 
+Installation
+------------
+
+    composer require wander4747/correios-crawler
+	
 Usage
 -----
 
